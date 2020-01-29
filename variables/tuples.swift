@@ -1,0 +1,6 @@
+let coordinates = (8,10)
+print(coordinates.0)
+print(coordinates.1)
+let namedCoordinates = (row: 4, column: 6)
+print(namedCoordinates.0)
+print(namedCoordinates.1)
